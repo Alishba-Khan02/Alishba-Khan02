@@ -16,7 +16,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Alishba-Khan02/Alishba-Khan02/output/snake.yml" alt="Snake animation" />
 
 ###
 

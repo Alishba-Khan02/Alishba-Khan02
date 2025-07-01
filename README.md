@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey👋What's up!?</h1>
+<h1 align="center">Hey🌟, I'm Alishba Khan</h1>
 
 ###
 
@@ -12,14 +12,15 @@
 
 ###
 
-<p align="left">My name is Alishba Khan and i'm a Mernstack Developer from Karachi Pakistan.<br><br>- 🔭 Solving bugs since 2022...<br>- 📚 I'm currently learning Agentic AI<br>- ⚡ In my free time I choose to code for my skills enhancement</p>
+<p align="left">Full Stack Developer (MERN) | Exploring Agentic AI with OpenAI Agents SDK<br><br>- 🔭 Currently building MERN Stack projects and diving into Python for Agentic AI.<br>- 📚  Exploring OpenAI Agents SDK, prompt engineering, and AI-based workflows.<br>- ⚡ Open to collaborating on open-source, AI, and innovation-driven projects.</p>
 
 ###
 
+<h3 align="left">🛠Tech Stack</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">🌐 Frontend</p>
 
 ###
 
@@ -32,17 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -50,7 +43,39 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+</div>
+
+###
+
+<p align="left">💼  Backend & Database</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+</div>
+
+###
+
+<p align="left">🧰 Tools & Platforms</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
@@ -82,6 +107,5 @@
 </div>
 
 ###
-
  
 
